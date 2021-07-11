@@ -1,0 +1,46 @@
+<!--thumbnail section-->
+
+<div class="wrapper-content">
+  <div class="row">
+    <div class="col-md-6">
+      <img
+        src="assets/image/Gestion-de-Talento/cv.png"
+        alt="cv"
+        class="thumbnail-seccion__image-1 animate__animated animateFadeUp"
+      />
+
+      <img
+        src="assets/image/Gestion-de-Talento/luz.png"
+        alt="luz"
+        class="thumbnail-seccion__image-3 animate__animated animaterubberBand"
+      />
+      <img
+        src="assets/image/Gestion-de-Talento/persona.png"
+        alt="persona"
+        class="thumbnail-seccion__image-4"
+      />
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail-seccion-container__data">
+        <h2 class="animate__animated animateFadeIn">{{ textMock.title }}</h2>
+        <div class="content-mask a5">
+          <p class="animate__animated animateFadeUp">
+            <!-- {{ textMock.description }} -->
+            {{ textMock.description }}
+          </p>
+        </div>
+
+        <div
+          class="thumbnail-seccion-container__action-buttons animate__animated align-left"
+        >
+          <button
+            (click)="handleGotoSubIniciative(item, avenida)"
+            *ngFor="let item of avenida.iniciativas"
+          >
+            {{ item.title }}
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

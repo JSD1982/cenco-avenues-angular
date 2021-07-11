@@ -1,0 +1,189 @@
+<!-- <app-nav [textMock]="textMock" ></app-nav> -->
+<div class="background-outside"></div>
+<div class="animate__animated animate__fadeIn">
+  <app-hero
+    (selectLanguajeEvent)="selectLanguage($event)"
+    [lenguaje]="true"
+  ></app-hero>
+  <!--list items section-->
+  <div id="avenidas"></div>
+  <section class="seccion-container listItems-section" id="Avenidas">
+    <div class="wrapper-content">
+      <h1 class="animate__animated animateFadeIn">
+        {{ textMock.titleSectionAvenues }}
+      </h1>
+      <p
+        class="animate__animated animateFadeUp"
+        [innerHTML]="textMock.infoSectionAvenues"
+      ></p>
+      <img src="assets/image/title-image.svg" alt="" class="title-image" />
+      <div class="row">
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.newITModel.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-1.png"
+                alt=""
+                class="`circle-icon-1"
+              />
+              <h2>{{ textMock.newITModel.title }}</h2>
+            </a>
+          </div>
+          <ul *ngFor="let subItem of itemsAvenidas.item2.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.cybersecurity.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-2.png"
+                alt=""
+                class="`circle-icon-2"
+              />
+              <h2>{{ textMock.cybersecurity.title }}</h2>
+            </a>
+          </div>
+
+          <ul *ngFor="let subItem of itemsAvenidas.item6.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.technologyStrategy.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-3.png"
+                alt=""
+                class="`circle-icon-3"
+              />
+              <h2>{{ textMock.technologyStrategy.title }}</h2>
+            </a>
+          </div>
+          <ul *ngFor="let subItem of itemsAvenidas.item4.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.talentManagement.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-4.png"
+                alt=""
+                class="`circle-icon-4"
+              />
+              <h2>{{ textMock.talentManagement.title }}</h2>
+            </a>
+          </div>
+          <ul *ngFor="let subItem of itemsAvenidas.item5.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.digitalStrategy.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-5.png"
+                alt=""
+                class="`circle-icon-5"
+              />
+              <h2>{{ textMock.digitalStrategy.title }}</h2>
+            </a>
+          </div>
+          <ul *ngFor="let subItem of itemsAvenidas.item3.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+        <div class="col-sm-2">
+          <div class="listItems-section__title-items">
+            <a href="{{ paths.centricityConsumer.href }}" class="scroll-smooth">
+              <img
+                src="assets/image/icono-avenidas-6.png"
+                alt=""
+                class="`circle-icon-6"
+              />
+              <h2>{{ textMock.centricityConsumer.title }}</h2>
+            </a>
+          </div>
+          <ul *ngFor="let subItem of itemsAvenidas.item1.iniciativas">
+            <li>{{ subItem.title }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--list items section-->
+
+  <!--section new-itmodel-->
+  <!-- <div id="Novo-Modelo-TI"></div> -->
+  <div id="Novo-Modelo-TI"></div>
+  <section
+    class="thumbnail-seccion-container color-orange"
+    id="Nuevo-Modelo-TI"
+  >
+    <app-new-itmodel
+      [avenida]="itemsAvenidas.item2"
+      [textMock]="textMock.newITModel"
+    ></app-new-itmodel>
+  </section>
+  <!--section new-itmodel-->
+
+  <!--section cybersecurity-compliance-->
+  <div id="Ciberseguranca-e-conformidade"></div>
+  <section class="thumbnail-seccion-container" id="Cyberseguridad-y-Compliance">
+    <app-cybersecurity-compliance
+      [avenida]="itemsAvenidas.item6"
+      [textMock]="textMock.cybersecurity"
+    ></app-cybersecurity-compliance>
+  </section>
+  <!--section cybersecurity-compliance-->
+
+  <!--section technological-strategy-->
+  <div id="Estrategia-Tecnologia"></div>
+  <section
+    class="thumbnail-seccion-container color-blue"
+    id="Estrategia-Tecnologica"
+  >
+    <app-technological-strategy
+      [avenida]="itemsAvenidas.item4"
+      [textMock]="textMock.technologyStrategy"
+    ></app-technological-strategy>
+  </section>
+  <!--section  technological-strategy-->
+
+  <!--section talent-management-->
+  <div id="Gestao-de-Talentos"></div>
+  <section
+    class="thumbnail-seccion-container color-blue bkg-white"
+    id="Gestion-de-Talento"
+  >
+    <app-talent-management
+      [avenida]="itemsAvenidas.item5"
+      [textMock]="textMock.talentManagement"
+    ></app-talent-management>
+  </section>
+  <!--section talent-managementy-->
+
+  <!--section digital-strategy-->
+  <section
+    class="thumbnail-seccion-container color-orange"
+    id="Estrategia-Digital"
+  >
+    <app-digital-strategy
+      [avenida]="itemsAvenidas.item3"
+      [textMock]="textMock.digitalStrategy"
+    ></app-digital-strategy>
+  </section>
+  <div id="Estrategia-Digital"></div>
+  <!--section digital-strategy-->
+
+  <!--section customer-centricity-->
+  <div id="Centricidade-do-cliente"></div>
+  <section class="thumbnail-seccion-container" id="Customer-Centricity">
+    <app-customer-centricity
+      [avenida]="itemsAvenidas.item1"
+      [textMock]="textMock.centricityConsumer"
+    ></app-customer-centricity>
+  </section>
+  <!--section customer-centricity-->
+</div>

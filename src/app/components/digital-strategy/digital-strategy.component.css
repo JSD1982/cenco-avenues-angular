@@ -1,0 +1,37 @@
+.thumbnail-seccion__image-1 {
+  left: 217px;
+  top: 28px;
+  z-index: 1;
+}
+.thumbnail-seccion__image-2 {
+  z-index: 1;
+  top: 228px;
+  left: 278px;
+}
+.thumbnail-seccion__image-3 {
+  top: 74px;
+  left: 120px;
+}
+.thumbnail-seccion__image-4 {
+  left: 115px;
+  top: 47px;
+  z-index: 2;
+}
+.thumbnail-seccion__image-5 {
+  left: 145px;
+  top: 218px;
+}
+.thumbnail-seccion__image-6 {
+  top: 65px;
+  left: 250px;
+  z-index: 2;
+}
+.thumbnail-seccion__image-7 {
+  top: -7px;
+  left: 429px;
+}
+.thumbnail-seccion__image-8 {
+  left: 251px;
+  top: 171px;
+  z-index: 2;
+}

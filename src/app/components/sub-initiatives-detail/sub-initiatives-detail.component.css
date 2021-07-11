@@ -1,0 +1,104 @@
+/*card thumbnail component detail*/
+.thumbnail-detail-container {
+  padding: 140px 0 0 0;
+  height: 100vh;
+  background-color: #ececec9e;
+}
+.thumbnail-detail-container h1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 46px;
+  line-height: 58px;
+  /* or 126% */
+  letter-spacing: -0.0384615em;
+  color: #000000;
+  margin-bottom: 15px;
+}
+.thumbnail-detail-container h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 30px;
+  /* or 214% */
+  color: #000000;
+  margin: 5px 0 0 0;
+}
+.thumbnail-detail-container p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  /* or 187% */
+  color: #000000;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  margin-bottom: 35px;
+}
+.thumbnail-detail-container__image-container {
+  overflow: hidden;
+  border-radius: 12px;
+  height: 220px;
+  position: relative;
+  box-shadow: 0 0 42px 5px #0000001a;
+  margin-bottom: 25px;
+  background-color: #ffffff;
+}
+.thumbnail-detail-container__image-container img {
+  /* width: 100%; */
+  position: relative;
+  transform: translate(-50%, -49%);
+  top: 50%;
+  left: 50%;
+}
+.thumbnail-detail-container__detaild-items {
+  margin-top: 11px;
+}
+.thumbnail-detail-container__detaild-items li {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 6px;
+  align-items: center;
+  color: #000000;
+}
+
+.thumbnail-detail-container__icon-file {
+  margin-bottom: 10px;
+  overflow: hidden;
+  min-height: 59px;
+}
+.thumbnail-detail-container__icon-file li {
+  margin: 11px 0px 16px 9px;
+  padding-left: 20px;
+  display: block;
+  font-size: 13px;
+}
+
+.thumbnail-detail-container__icon-file li img {
+  position: absolute;
+  width: 27px;
+  left: 10px;
+  margin-top: -5px;
+}
+.thumbnail-detail-container__icon-file li:hover span {
+  color: #ff8f17;
+}
+.thumbnail-detail-container button {
+  width: 198px;
+  height: 40px;
+  box-sizing: border-box;
+  border-radius: 28.5px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+  text-align: center;
+  border: 1px solid #ff8f17;
+  color: #ff8f17;
+}
+.thumbnail-detail-container button:hover {
+  background: #ff8f17;
+  box-shadow: 0px 6px 12px rgba(255, 143, 23, 0.2);
+  color: #ffffff;
+}

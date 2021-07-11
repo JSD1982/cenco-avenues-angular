@@ -1,0 +1,47 @@
+<!--thumbnail section-->
+<div class="wrapper-content">
+  <div class="row">
+    <div class="col-md-6">
+      <img
+        src="assets/image/Customer-Centricity/mancha.png"
+        alt="mancha"
+        class="thumbnail-seccion__image-1 animate__animated animaterubberBand"
+      />
+      <img
+        src="assets/image/Customer-Centricity/mueble.png"
+        alt="mueble"
+        class="thumbnail-seccion__image-2"
+      />
+      <img
+        src="assets/image/Customer-Centricity/persona-con-tablet.png"
+        alt="persona-con-tablet"
+        class="thumbnail-seccion__image-3 animate__animated animateFadeInLeft"
+      />
+
+      <div class="line-customer"></div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="thumbnail-seccion-container__data">
+        <h2 class="animate__animated animateFadeIn">{{ textMock.title }}</h2>
+        <div class="content-mask a2">
+          <p class="animate__animated animateFadeUp">
+            <!-- {{ textMock.description }} -->
+            {{ textMock.description }}
+          </p>
+        </div>
+
+        <div
+          class="thumbnail-seccion-container__action-buttons animate__animated align-left"
+        >
+          <button
+            (click)="handleGotoSubIniciative(item, avenida)"
+            *ngFor="let item of avenida.iniciativas"
+          >
+            {{ item.title }}
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+.thumbnail-seccion__image-1 {
+  right: 83px;
+  top: 48px;
+}
+.thumbnail-seccion__image-2 {
+  top: 25px;
+  right: 515px;
+}
+.thumbnail-seccion__image-3 {
+  top: 86px;
+  right: 477px;
+  z-index: 2;
+}
+.thumbnail-seccion__image-4 {
+  right: 179px;
+  bottom: -22px;
+  z-index: 2;
+}
+.thumbnail-seccion__image-5 {
+  right: 45px;
+  bottom: -15px;
+  z-index: 5;
+}
+.thumbnail-seccion__image-6 {
+  right: 195px;
+  bottom: 182px;
+  top: 89px;
+  max-width: 221px;
+}

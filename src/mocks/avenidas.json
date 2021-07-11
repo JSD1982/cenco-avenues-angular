@@ -1,0 +1,633 @@
+{
+  "result": {
+    "totalAvenues": 6,
+    "avenues": [
+      {
+        "name": "Cyberseguridad y Compliance",
+        "path": "cyberseguridad-y-compliance",
+        "totalIniciatives": 2,
+        "iniciatives": [
+          {
+            "id": "5fc5527e729a330011d0c942",
+            "language": {
+              "es": {
+                "name": "Compliance Regulatorio",
+                "description": ".",
+                "path": "compliance-regulatorio"
+              },
+              "pt": {
+                "name": "Compliance Regulatorio",
+                "description": ".",
+                "path": "compliance-regulatorio"
+              }
+            },
+            "createdAt": "2020-11-27T16:50:44.694Z",
+            "updatedAt": "2020-12-02T23:05:11.569Z",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16e",
+              "name": "Cyberseguridad y Compliance",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81db9099bfb0011096118",
+            "language": {
+              "es": {
+                "name": "Prevención de Cyberamenzas",
+                "description": ".",
+                "path": "prevención-de-cyberamenzas"
+              },
+              "pt": {
+                "name": "Prevención de Cyberamenzas",
+                "description": ".",
+                "path": "prevención-de-cyberamenzas"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": "2020-12-02T23:05:38.995Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Monitoreo (SOC)",
+                    "description": "Servicio de monitoreo / análisis de la actividad / eventos de seguridad de nuestra infraestructura crítica para tener alertas proactivas ante posibles brechas / ataques (malware avanzado, denegación de servicio, fuga de información, etc). Además incluye el servicio de inteligencia de amenazas y el apoyo de \"Incident Response\" ante un evento del cual podamos ser objeto.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "monitoreo-(soc)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Monitoreo (SOC)",
+                    "description": "Servicio de monitoreo / análisis de la actividad / eventos de seguridad de nuestra infraestructura crítica para tener alertas proactivas ante posibles brechas / ataques (malware avanzado, denegación de servicio, fuga de información, etc). Además incluye el servicio de inteligencia de amenazas y el apoyo de \"Incident Response\" ante un evento del cual podamos ser objeto.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "monitoreo-(soc)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2020-12-23T13:53:40.593Z",
+                "id": "5fe34b185c062900181689f4",
+                "files": [
+                  {
+                    "path": "/files?fileName=8- Monitoreo (SOC).png&subIniciativeId=5fe34b185c062900181689f4",
+                    "name": "8- Monitoreo (SOC).png",
+                    "extension": "image/png"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Cloud Access Security Broker (CASB)",
+                    "description": "El CASB nos permite tener un punto de control en el acceso a los recursos que  están en el cloud y aplicar políticas de seguridad. El despligue de la solución nos permite tener visibilidad del \"comportamiento de los usuarios\" en la nube, descubrimiento del \"Shadow IT\", protección de malware en los recursos nube compartidos, aplicación de políticas de acceso en la nube, etc ...\n",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "cloud-access-security-broker-(casb)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Cloud Access Security Broker (CASB)",
+                    "description": "El CASB nos permite tener un punto de control en el acceso a los recursos que  están en el cloud y aplicar políticas de seguridad. El despligue de la solución nos permite tener visibilidad del \"comportamiento de los usuarios\" en la nube, descubrimiento del \"Shadow IT\", protección de malware en los recursos nube compartidos, aplicación de políticas de acceso en la nube, etc ...",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "cloud-access-security-broker-(casb)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2020-12-23T13:54:05.077Z",
+                "id": "5fe34b5f5c062900181689f5",
+                "files": [
+                  {
+                    "path": "/files?fileName=2- Cloud Access Security Broker (CASB).png&subIniciativeId=5fe34b5f5c062900181689f5",
+                    "name": "2- Cloud Access Security Broker (CASB).png",
+                    "extension": "image/png"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Seguridad Correo 365",
+                    "description": "El proyecto implementa una solución nube que nos permite brindar seguridad a nuestro correo corporativo, brindando protección ante ataques por ejemplo del tipo BEC (Business eMail Compromise)(phishing robo de identindad, estafas/fraudes, malware avanzado, etc). Adicionalmente nos permite implementar una nueva solución de seguridad para todos los EndPoints de la región.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "seguridad-correo-365",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Seguridad Correo 365",
+                    "description": "El proyecto implementa una solución nube que nos permite brindar seguridad a nuestro correo corporativo, brindando protección ante ataques por ejemplo del tipo BEC (Business eMail Compromise)(phishing robo de identindad, estafas/fraudes, malware avanzado, etc). Adicionalmente nos permite implementar una nueva solución de seguridad para todos los EndPoints de la región.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "seguridad-correo-365",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2020-12-23T13:54:20.342Z",
+                "id": "5fe34b9c5c062900181689f6",
+                "files": [
+                  {
+                    "path": "/files?fileName=10- Seguridad Correo 365.png&subIniciativeId=5fe34b9c5c062900181689f6",
+                    "name": "10- Seguridad Correo 365.png",
+                    "extension": "image/png"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16e",
+              "name": "Cyberseguridad y Compliance",
+              "__v": 0
+            },
+            "totalSubiniciatives": 3
+          }
+        ]
+      },
+      {
+        "name": "Customer Centricity",
+        "path": "customer-centricity",
+        "totalIniciatives": 2,
+        "iniciatives": [
+          {
+            "id": "5fc81de4099bfb0011096119",
+            "language": {
+              "es": {
+                "name": "Visión 360",
+                "description": ".",
+                "path": "visión-360"
+              },
+              "pt": {
+                "name": "Visión 360",
+                "description": ".",
+                "path": "visión-360"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16d",
+              "name": "Customer Centricity",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81dfb099bfb001109611a",
+            "language": {
+              "es": {
+                "name": "Interacción Directa y Personalización",
+                "description": ".",
+                "path": "interacción-directa-y-personalización"
+              },
+              "pt": {
+                "name": "Interacción Directa y Personalización",
+                "description": ".",
+                "path": "interacción-directa-y-personalización"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16d",
+              "name": "Customer Centricity",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Estrategia Tecnológica",
+        "path": "estrategia-tecnológica",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e10099bfb001109611b",
+            "language": {
+              "es": {
+                "name": "Mapa de Obsolescencia",
+                "description": ".",
+                "path": "mapa-de-obsolescencia"
+              },
+              "pt": {
+                "name": "Mapa de Obsolescencia",
+                "description": ".",
+                "path": "mapa-de-obsolescencia"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e1a099bfb001109611c",
+            "language": {
+              "es": {
+                "name": "Racionalización de Aplicaciones",
+                "description": ".",
+                "path": "racionalización-de-aplicaciones"
+              },
+              "pt": {
+                "name": "Racionalización de Aplicaciones",
+                "description": ".",
+                "path": "racionalización-de-aplicaciones"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e25099bfb001109611d",
+            "language": {
+              "es": {
+                "name": "Migración a Cloud",
+                "description": ".",
+                "path": "migración-a-cloud"
+              },
+              "pt": {
+                "name": "Migración a Cloud",
+                "description": ".",
+                "path": "migración-a-cloud"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Estrategia Digital",
+        "path": "estrategia-digital",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e3d099bfb001109611e",
+            "language": {
+              "es": {
+                "name": "Ecosistema de Colaboración Digital",
+                "description": ".",
+                "path": "ecosistema-de-colaboración-digital"
+              },
+              "pt": {
+                "name": "Ecosistema de Colaboración Digital",
+                "description": ".",
+                "path": "ecosistema-de-colaboración-digital"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e48099bfb001109611f",
+            "language": {
+              "es": {
+                "name": "Automatización de Procesos de Negocio",
+                "description": ".",
+                "path": "automatización-de-procesos-de-negocio"
+              },
+              "pt": {
+                "name": "Automatización de Procesos de Negocio",
+                "description": ".",
+                "path": "automatización-de-procesos-de-negocio"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e54099bfb0011096120",
+            "language": {
+              "es": {
+                "name": "Digitalización de Experiencias de Cliente",
+                "description": ".",
+                "path": "digitalización-de-experiencias-de-cliente"
+              },
+              "pt": {
+                "name": "Digitalización de Experiencias de Cliente",
+                "description": ".",
+                "path": "digitalización-de-experiencias-de-cliente"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Nuevo Modelo TI",
+        "path": "nuevo-modelo-ti",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e6b099bfb0011096121",
+            "language": {
+              "es": {
+                "name": "Gestión de Proyectos CAPEX",
+                "description": ".",
+                "path": "gestión-de-proyectos-capex"
+              },
+              "pt": {
+                "name": "Gestión de Proyectos CAPEX",
+                "description": ".",
+                "path": "gestión-de-proyectos-capex"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e76099bfb0011096122",
+            "language": {
+              "es": {
+                "name": "Gobierno TI",
+                "description": ".",
+                "path": "gobierno-ti"
+              },
+              "pt": {
+                "name": "Gobierno TI",
+                "description": ".",
+                "path": "gobierno-ti"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e80099bfb0011096123",
+            "language": {
+              "es": {
+                "name": "Gestión de OPEX",
+                "description": ".",
+                "path": "gestión-de-opex"
+              },
+              "pt": {
+                "name": "Gestión de OPEX",
+                "description": ".",
+                "path": "gestión-de-opex"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Gestión de Talento",
+        "path": "gestión-de-talento",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e95099bfb0011096124",
+            "language": {
+              "es": {
+                "name": "Atracción, retención y Desarrollo de Talento",
+                "description": ".",
+                "path": "atracción,-retención-y-desarrollo-de-talento"
+              },
+              "pt": {
+                "name": "Atracción, retención y Desarrollo de Talento",
+                "description": ".",
+                "path": "atracción,-retención-y-desarrollo-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Encuesta de Salida",
+                    "description": "Realizar una encuesta a todos los colaboradores que presenten renuncia voluntaria.",
+                    "responsable": "Patricia Leiva",
+                    "impact": "Bajo",
+                    "scope": "Regional",
+                    "path": "encuesta-de-salida",
+                    "state": "Implementado",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Encuesta de Salida",
+                    "description": "Realizar una encuesta a todos los colaboradores que presenten renuncia voluntaria.",
+                    "responsable": "Patricia Leiva",
+                    "impact": "Bajo",
+                    "scope": "Regional",
+                    "path": "encuesta-de-salida",
+                    "state": "Implementado",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "5fc54dbcd9798b2b8025c175",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "https://google.com/",
+                "implementationEndDate": "2020-12-02T03:00:00.000Z",
+                "createdAt": "2020-12-01T17:37:47.115Z",
+                "updatedAt": "2020-12-23T13:31:37.921Z",
+                "id": "5fc82088099bfb0011096127",
+                "files": [
+                  {
+                    "path": "/files?fileName=qa2.png&subIniciativeId=5fc82088099bfb0011096127",
+                    "name": "qa2.png",
+                    "extension": "image/png"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          },
+          {
+            "id": "5fc81e9e099bfb0011096125",
+            "language": {
+              "es": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              },
+              "pt": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81ea9099bfb0011096126",
+            "language": {
+              "es": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              },
+              "pt": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      }
+    ]
+  }
+}

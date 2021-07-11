@@ -1,0 +1,40 @@
+<!-- <app-nav [textMock]="textMock"></app-nav> -->
+<div class="animate__animated animate__fadeIn">
+  <!--thumbnail-->
+  <div id="top"></div>
+  <div id="navStickyId"></div>
+  <div class="thumbnail-container">
+    <div *ngIf="!loading" class="wrapper-content"><img src="assets/image/loading.gif" class="loading"/></div>
+    <div *ngIf="loading" class="wrapper-content">
+      <!--bredcrum-->
+      <div class="bredcrum-bar-content">
+        <div class="bredcrum-bar-content--between">
+          <div class="bredcrum-bar-content__left">
+            <span>{{ avenuePath }}</span>
+          </div>
+          <div class="bredcrum-bar-content__right">
+            <a href="#Avenidas">
+            <img src="assets/image/arrow-left.png" alt="arrow" />{{textMock.buttonBack}}</a>
+          </div>
+        </div>
+      </div>
+      <!--bredcrum-->
+      <h1>{{title}}</h1>
+      <p>{{description}}</p>
+      <div class="row">
+        <div class="col-sm-4" *ngFor="let sub of subIniciatives">
+          <div class="thumbnail-container__card card-button" (click)="handleGoToSudIniciativeDetail(sub,avenuePath)">
+            <div class="thumbnail-container__card-image">
+              <!-- {{ sub.src }} assets/image/icon-card-test.png-->
+              <img src="{{ sub.src }}" />
+            </div>
+            <div class="thumbnail-container__card-text">
+              <h2>{{ sub.title }}</h2>
+              <p>{{ sub.description }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

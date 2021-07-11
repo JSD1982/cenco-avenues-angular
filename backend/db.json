@@ -1,0 +1,1265 @@
+{
+  "result": {
+    "totalAvenues": 7,
+    "avenues": [
+      {
+        "name": "Cyberseguridad y Compliance",
+        "path": "cyberseguridad-y-compliance",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc5527e729a330011d0c942",
+            "language": {
+              "es": {
+                "name": "Compliance Regulatorio",
+                "description": ".",
+                "path": "compliance-regulatorio"
+              },
+              "pt": {
+                "name": "Compliance Regulatorio",
+                "description": ".",
+                "path": "compliance-regulatorio"
+              }
+            },
+            "createdAt": "2020-11-27T16:50:44.694Z",
+            "updatedAt": "2020-12-02T23:05:11.569Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Prueba",
+                    "description": ".",
+                    "responsable": "Información Tecnica SPP Automatica (CMDB)",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "prueba",
+                    "state": "En desarrollo",
+                    "country": "Perú",
+                    "flag": "Eurofashion",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Prueba",
+                    "description": ".",
+                    "responsable": "Información Tecnica SPP Automatica (CMDB)",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "prueba",
+                    "state": "En desarrollo",
+                    "country": "Perú",
+                    "flag": "Eurofashion",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c17a",
+                "stateId": "5fc54dbcd9798b2b8025c174",
+                "flagId": "5fc54dbcd9798b2b8025c184",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "",
+                "implementationEndDate": "2021-01-26T03:00:00.000Z",
+                "createdAt": "2021-01-13T12:04:53.166Z",
+                "updatedAt": "2021-05-19T19:22:29.920Z",
+                "id": "6001ab3684e9620011c18994",
+                "files": [
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç - 2.PDF&subIniciativeId=6001ab3684e9620011c18994",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç - 2.PDF",
+                    "extension": "application/pdf"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.pdf&subIniciativeId=6001ab3684e9620011c18994",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.pdf",
+                    "extension": "application/pdf"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.txt&subIniciativeId=6001ab3684e9620011c18994",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.txt",
+                    "extension": "text/plain"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.xlsx&subIniciativeId=6001ab3684e9620011c18994",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.xlsx",
+                    "extension": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Prueba 2",
+                    "description": "asdas",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "prueba-2",
+                    "state": "",
+                    "country": "Colombia",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "asdasd",
+                    "description": "adsdasd",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "asdasd",
+                    "state": "",
+                    "country": "Colômbia",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c179",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17b",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-03-30T14:23:23.630Z",
+                "updatedAt": "2021-05-19T19:17:33.834Z",
+                "id": "606cbb87298d6900184acd4f",
+                "files": []
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Prueba 4",
+                    "description": "-",
+                    "responsable": "",
+                    "impact": "",
+                    "scope": "",
+                    "path": "prueba-4",
+                    "state": "",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Prueba 4",
+                    "description": "-",
+                    "responsable": "",
+                    "impact": "",
+                    "scope": "",
+                    "path": "prueba-4",
+                    "state": "",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c176",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c182",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-05T13:36:36.429Z",
+                "id": "609d8d2eb9d4a00011050911",
+                "files": []
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Prueba carga multiarchivos",
+                    "description": "Prueba carga multiarchivos",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "prueba-carga-multiarchivos",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Easy",
+                    "businessUnit": "Clientes"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Prueba carga multiarchivos",
+                    "description": "Prueba carga multiarchivos",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "prueba-carga-multiarchivos",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Easy",
+                    "businessUnit": "Clientes"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c183",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a2",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-17T15:21:58.640Z",
+                "updatedAt": "2021-05-19T19:16:16.664Z",
+                "id": "60a41bfcdb452b0018e0d10c",
+                "files": []
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16e",
+              "name": "Cyberseguridad y Compliance",
+              "__v": 0
+            },
+            "totalSubiniciatives": 4
+          },
+          {
+            "id": "5fc81db9099bfb0011096118",
+            "language": {
+              "es": {
+                "name": "Prevención de Cyberamenzas",
+                "description": ".",
+                "path": "prevención-de-cyberamenzas"
+              },
+              "pt": {
+                "name": "Prevención de Cyberamenzas",
+                "description": ".",
+                "path": "prevención-de-cyberamenzas"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": "2020-12-02T23:05:38.995Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Monitoreo (SOC)",
+                    "description": "Servicio de monitoreo / análisis de la actividad / eventos de seguridad de nuestra infraestructura crítica para tener alertas proactivas ante posibles brechas / ataques (malware avanzado, denegación de servicio, fuga de información, etc). Además incluye el servicio de inteligencia de amenazas y el apoyo de \"Incident Response\" ante un evento del cual podamos ser objeto.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "monitoreo-(soc)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Monitoreo (SOC)",
+                    "description": "Servicio de monitoreo / análisis de la actividad / eventos de seguridad de nuestra infraestructura crítica para tener alertas proactivas ante posibles brechas / ataques (malware avanzado, denegación de servicio, fuga de información, etc). Además incluye el servicio de inteligencia de amenazas y el apoyo de \"Incident Response\" ante un evento del cual podamos ser objeto.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "monitoreo-(soc)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2020-12-23T13:53:40.593Z",
+                "id": "5fe34b185c062900181689f4",
+                "files": [
+                  {
+                    "path": "/files?fileName=8- Monitoreo (SOC).png&subIniciativeId=5fe34b185c062900181689f4",
+                    "name": "8- Monitoreo (SOC).png",
+                    "extension": "image/png"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Cloud Access Security Broker (CASB)",
+                    "description": "El CASB nos permite tener un punto de control en el acceso a los recursos que  están en el cloud y aplicar políticas de seguridad. El despligue de la solución nos permite tener visibilidad del \"comportamiento de los usuarios\" en la nube, descubrimiento del \"Shadow IT\", protección de malware en los recursos nube compartidos, aplicación de políticas de acceso en la nube, etc ...\n",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "cloud-access-security-broker-(casb)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Cloud Access Security Broker (CASB)",
+                    "description": "El CASB nos permite tener un punto de control en el acceso a los recursos que  están en el cloud y aplicar políticas de seguridad. El despligue de la solución nos permite tener visibilidad del \"comportamiento de los usuarios\" en la nube, descubrimiento del \"Shadow IT\", protección de malware en los recursos nube compartidos, aplicación de políticas de acceso en la nube, etc ...",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "cloud-access-security-broker-(casb)",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2020-12-23T13:54:05.077Z",
+                "id": "5fe34b5f5c062900181689f5",
+                "files": [
+                  {
+                    "path": "/files?fileName=2- Cloud Access Security Broker (CASB).png&subIniciativeId=5fe34b5f5c062900181689f5",
+                    "name": "2- Cloud Access Security Broker (CASB).png",
+                    "extension": "image/png"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Seguridad Correo 365",
+                    "description": "El proyecto implementa una solución nube que nos permite brindar seguridad a nuestro correo corporativo, brindando protección ante ataques por ejemplo del tipo BEC (Business eMail Compromise)(phishing robo de identindad, estafas/fraudes, malware avanzado, etc). Adicionalmente nos permite implementar una nueva solución de seguridad para todos los EndPoints de la región.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "seguridad-correo-365",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Seguridad Correo 365",
+                    "description": "El proyecto implementa una solución nube que nos permite brindar seguridad a nuestro correo corporativo, brindando protección ante ataques por ejemplo del tipo BEC (Business eMail Compromise)(phishing robo de identindad, estafas/fraudes, malware avanzado, etc). Adicionalmente nos permite implementar una nueva solución de seguridad para todos los EndPoints de la región.",
+                    "responsable": " ",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "seguridad-correo-365",
+                    "state": "",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2020-12-14T14:25:21.981Z",
+                "updatedAt": "2021-01-13T12:28:10.766Z",
+                "id": "5fe34b9c5c062900181689f6",
+                "files": [
+                  {
+                    "path": "/files?fileName=10- Seguridad Correo 365.png&subIniciativeId=5fe34b9c5c062900181689f6",
+                    "name": "10- Seguridad Correo 365.png",
+                    "extension": "image/png"
+                  },
+                  {
+                    "path": "/files?fileName=qa5.png&subIniciativeId=5fe34b9c5c062900181689f6",
+                    "name": "qa5.png",
+                    "extension": "image/png"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16e",
+              "name": "Cyberseguridad y Compliance",
+              "__v": 0
+            },
+            "totalSubiniciatives": 3
+          },
+          {
+            "id": "6093eae5b9d4a000110508f6",
+            "language": {
+              "es": {
+                "name": "áéíóú",
+                "description": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                "path": "áéíóú"
+              },
+              "pt": {
+                "name": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                "description": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                "path": "áéíóú&/'\";,+*}{)(?¡!|°êç"
+              }
+            },
+            "createdAt": "2021-05-05T13:36:41.419Z",
+            "updatedAt": "2021-05-06T13:43:01.493Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "test",
+                    "description": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "responsable": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "impact": " áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "scope": " áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "path": "test",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Tiendas por Departamentos"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "description": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "responsable": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "impact": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "scope": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "path": "áéíóú&/'\";,+*}{)(?¡!|°êç",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Lojas de Departamento"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c176",
+                "stateId": "5fc54dbcd9798b2b8025c175",
+                "flagId": "5fc54dbcd9798b2b8025c182",
+                "businessUnitId": "5fc54dbdd9798b2b8025c19f",
+                "url": "http://qa-avenidas-estrategicas-admin.cencosud.corp/strategic_avenue/5fc54dbcd9798b2b8025c16e/key_initiative/6093eae5b9d4a000110508f6/sub_initiative_create",
+                "implementationEndDate": "2021-05-06T03:00:00.000Z",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-07T14:07:52.026Z",
+                "id": "6093eb43b9d4a000110508f7",
+                "files": [
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç - 2.PDF&subIniciativeId=6093eb43b9d4a000110508f7",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç - 2.PDF",
+                    "extension": "application/pdf"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.pdf&subIniciativeId=6093eb43b9d4a000110508f7",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.pdf",
+                    "extension": "application/pdf"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.txt&subIniciativeId=6093eb43b9d4a000110508f7",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.txt",
+                    "extension": "text/plain"
+                  },
+                  {
+                    "path": "/files?fileName=Prueba áéíóú - ÁÉÍÓÚ êẽç.xlsx&subIniciativeId=6093eb43b9d4a000110508f7",
+                    "name": "Prueba áéíóú - ÁÉÍÓÚ êẽç.xlsx",
+                    "extension": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                  },
+                  {
+                    "path": "/files?fileName=Idea Jumbo App.pptx&subIniciativeId=6093eb43b9d4a000110508f7",
+                    "name": "Idea Jumbo App.pptx",
+                    "extension": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Prueba de Juan",
+                    "description": "--",
+                    "responsable": "",
+                    "impact": "",
+                    "scope": "",
+                    "path": "prueba-de-juan",
+                    "state": "",
+                    "country": "Argentina",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Prueba de Juan",
+                    "description": "---",
+                    "responsable": "",
+                    "impact": "",
+                    "scope": "",
+                    "path": "prueba-de-juan",
+                    "state": "",
+                    "country": "Argentina",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c176",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17b",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-05T13:36:36.429Z",
+                "id": "60954ae2b9d4a00011050909",
+                "files": []
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16e",
+              "name": "Cyberseguridad y Compliance",
+              "__v": 0
+            },
+            "totalSubiniciatives": 2
+          }
+        ]
+      },
+      {
+        "name": "Customer Centricity",
+        "path": "customer-centricity",
+        "totalIniciatives": 2,
+        "iniciatives": [
+          {
+            "id": "5fc81de4099bfb0011096119",
+            "language": {
+              "es": {
+                "name": "Visión 360",
+                "description": "Consolidamos toda la información relevante del cliente, en todas nuestras marcas y canales, y enriquecemos la Vista 360 del cliente único, visualizando en un solo lugar, toda la información que permite a un empleado de Cencosud que está interactuando con un cliente, conocer de quien se trata, y resolver su consulta o reclamo en el mismo momento (First Call Resolution). Enriquecemos el perfil del cliente con su información de redes sociales. Interactuamos desde cualquier canal de manera consistente y con la misma información disponible. Automatizamos respuestas. Promovemos la autogestión de clientes.",
+                "path": "visión-360"
+              },
+              "pt": {
+                "name": "Visión 360",
+                "description": "Consolidamos todas as informações relevantes dos clientes, em todas as nossas marcas e canais, e enriquecemos a Visão 360 do cliente único, visualizando em um só lugar, todas as informações que permitem a um funcionário da Cencosud que está interagindo com um cliente saber quem é. é sobre e resolva sua dúvida ou reclamação ao mesmo tempo (Resolução da Primeira Chamada). Enriquecemos o perfil do cliente com suas informações nas redes sociais. Interagimos de qualquer canal de forma consistente e com as mesmas informações disponíveis. Automatizamos as respostas. Promovemos a autogestão do cliente.",
+                "path": "visión-360"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": "2021-05-06T15:56:28.076Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "com as mesmas informações disponíveis. ",
+                    "description": "áéíóú&/'\";,+*}{)(?¡!|°êç\nEl proposito de esta iniciativa es contar con el estado de salud de la tienda en \"tiempo real\" y poder identificar la ubicación del equipo por tienda. Se realizo un barrido del inventario y se consolido esa informacion en la herramirnta corporativa de Monitoreo  conocida como NAGIOS.",
+                    "responsable": "com as mesmas informações disponíveis. ",
+                    "impact": "todos com as mesmas informações disponíveis. ",
+                    "scope": "Cencosud",
+                    "path": "com-as-mesmas-informações-disponíveis.",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "División Shopping Centers"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "com as mesmas informações disponíveis. ",
+                    "description": "\nPort: O objetivo desta iniciativa é ter o estado de saúde da loja em “tempo real” e poder identificar a localização dos equipamentos por loja. Foi realizada uma varredura de inventário e essa informação foi consolidada na ferramenta corporativa de monitoramento denominada NAGIOS.\n\n  ",
+                    "responsable": "com as mesmas informações disponíveis. ",
+                    "impact": "",
+                    "scope": "",
+                    "path": "com-as-mesmas-informações-disponíveis.",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Divisão Shopping Centers"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c176",
+                "stateId": "5fc54dbcd9798b2b8025c175",
+                "flagId": "5fc54dbcd9798b2b8025c182",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a0",
+                "url": "",
+                "implementationEndDate": "2021-05-04T04:00:00.000Z",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-05T13:36:36.429Z",
+                "id": "609412bcb9d4a00011050902",
+                "files": [
+                  {
+                    "path": "/files?fileName=Technical Needs.docx&subIniciativeId=609412bcb9d4a00011050902",
+                    "name": "Technical Needs.docx",
+                    "extension": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16d",
+              "name": "Customer Centricity",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          },
+          {
+            "id": "5fc81dfb099bfb001109611a",
+            "language": {
+              "es": {
+                "name": "Interacción Directa y Personalización",
+                "description": ".",
+                "path": "interacción-directa-y-personalización"
+              },
+              "pt": {
+                "name": "Interacción Directa y Personalización",
+                "description": ".",
+                "path": "interacción-directa-y-personalización"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Nombre de la iniciativa",
+                    "description": "Ofrecer la funcionalidad de Scan&Go en nuestras tiendas, a través de la app mobile Jumbo Mas. Geolocalizar al cliente en nuestra tienda, permitirle scannear productos e ir armando su carro de compras, para generar finalmente un codigo QR y pasar por la caja autoservicio, sin interaccion alguna con personal de tienda. Alcance: todos los JUMBO y DISCO del país (110 tiendas)",
+                    "responsable": "Responsable-Iniciativa%",
+                    "impact": "Impacto",
+                    "scope": "#evitelafila",
+                    "path": "nombre-de-la-iniciativa",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Clientes"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "%&/(==?#$\"!°",
+                    "description": "Ofereça a funcionalidade Scan & Go em nossas lojas, por meio do aplicativo móvel Jumbo Mas. Geolocalize o cliente em nossa loja, permita que ele escaneie produtos e construa seu carrinho de compras, para finalmente gerar um código QR e passar pelo checkout de autoatendimento, sem qualquer interação com o pessoal da loja. Escopo: todos os JUMBO e DISCO do país (110 lojas)",
+                    "responsable": "Responsable-Iniciativa%",
+                    "impact": "Operaciones",
+                    "scope": "Alcance",
+                    "path": "%&/(==?#$\"!°",
+                    "state": "Implementado",
+                    "country": "Argentina",
+                    "flag": "Disco - ECommerce",
+                    "businessUnit": "Clientes"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c176",
+                "stateId": "5fc54dbcd9798b2b8025c175",
+                "flagId": "5fc54dbcd9798b2b8025c182",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a2",
+                "url": "",
+                "implementationEndDate": "2018-03-07T03:00:00.000Z",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-06T16:07:22.625Z",
+                "id": "60941407b9d4a00011050904",
+                "files": [
+                  {
+                    "path": "/files?fileName=iconfinder_site-traffic-analytics_7146535.png&subIniciativeId=60941407b9d4a00011050904",
+                    "name": "iconfinder_site-traffic-analytics_7146535.png",
+                    "extension": "image/png"
+                  },
+                  {
+                    "path": "/files?fileName=CencoForms encuestas.docx&subIniciativeId=60941407b9d4a00011050904",
+                    "name": "CencoForms encuestas.docx",
+                    "extension": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                  },
+                  {
+                    "path": "/files?fileName=I3.Saludo dia cumpleaños.png&subIniciativeId=60941407b9d4a00011050904",
+                    "name": "I3.Saludo dia cumpleaños.png",
+                    "extension": "image/png"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16d",
+              "name": "Customer Centricity",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          }
+        ]
+      },
+      {
+        "name": "Estrategia Tecnológica",
+        "path": "estrategia-tecnológica",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e10099bfb001109611b",
+            "language": {
+              "es": {
+                "name": "Mapa de Obsolescencia",
+                "description": ".",
+                "path": "mapa-de-obsolescencia"
+              },
+              "pt": {
+                "name": "Mapa de Obsolescencia",
+                "description": ".",
+                "path": "mapa-de-obsolescencia"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Homologacion",
+                    "description": "\"Desafiándonos a seguir los mejores estándares de mercado, es que hemos trabajado en un proyecto de homologación de cargos para toda nuestra gerencia de TI. Esto nos permite estandarizar nuestros cargos de acuerdo a las empresas tecnológicas de vanguardia en el mundo.\nEste proceso nos entrega mayor transparencia de las habilidades necesarias para poder desempeñar nuestro cargo de la mejor forma, además de poder evaluar las brechas para el siguiente nivel, configurando un plan de carrera visible para el desarrollo profesional en cada familia de cargos.\nNos permitirá además definir los objetivos a perseguir por cada carga y los resultados que debemos alcanzar.\n\"",
+                    "responsable": "CRM Personalização e Fidelidade",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "homologacion",
+                    "state": "En desarrollo",
+                    "country": "Colombia",
+                    "flag": "Disco",
+                    "businessUnit": "División Shopping Centers"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Automacao de processos no app minhaCENCO",
+                    "description": "\n“O desafio de seguir os melhores padrões de mercado é que trabalhamos em um projeto de homologação de cargos para toda a nossa gestão de TI. ",
+                    "responsable": "CRM Personalização e Fidelidade",
+                    "impact": "Impacto",
+                    "scope": "Alcance",
+                    "path": "automacao-de-processos-no-app-minhacenco",
+                    "state": "En desarrollo",
+                    "country": "Colômbia",
+                    "flag": "Disco",
+                    "businessUnit": "Divisão Shopping Centers"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c179",
+                "stateId": "5fc54dbcd9798b2b8025c174",
+                "flagId": "5fc54dbcd9798b2b8025c181",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a0",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-07T14:43:30.818Z",
+                "id": "609551fbb9d4a0001105090e",
+                "files": [
+                  {
+                    "path": "/files?fileName=iconfinder_48_disease_incident_infection_pandemic_virus_6087973.png&subIniciativeId=609551fbb9d4a0001105090e",
+                    "name": "iconfinder_48_disease_incident_infection_pandemic_virus_6087973.png",
+                    "extension": "image/png"
+                  },
+                  {
+                    "path": "/files?fileName=capex chart.xlsx&subIniciativeId=609551fbb9d4a0001105090e",
+                    "name": "capex chart.xlsx",
+                    "extension": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          },
+          {
+            "id": "5fc81e1a099bfb001109611c",
+            "language": {
+              "es": {
+                "name": "Racionalización de Aplicaciones",
+                "description": ".",
+                "path": "racionalización-de-aplicaciones"
+              },
+              "pt": {
+                "name": "Racionalización de Aplicaciones",
+                "description": ".",
+                "path": "racionalización-de-aplicaciones"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e25099bfb001109611d",
+            "language": {
+              "es": {
+                "name": "Migración a Cloud",
+                "description": ".",
+                "path": "migración-a-cloud"
+              },
+              "pt": {
+                "name": "Migración a Cloud",
+                "description": ".",
+                "path": "migración-a-cloud"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c170",
+              "name": "Estrategia Tecnológica",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Estrategia Digital",
+        "path": "estrategia-digital",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e3d099bfb001109611e",
+            "language": {
+              "es": {
+                "name": "Ecosistema de Colaboración Digital",
+                "description": ".",
+                "path": "ecosistema-de-colaboración-digital"
+              },
+              "pt": {
+                "name": "Ecosistema de Colaboración Digital",
+                "description": ".",
+                "path": "ecosistema-de-colaboración-digital"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e48099bfb001109611f",
+            "language": {
+              "es": {
+                "name": "Automatización de Procesos de Negocio",
+                "description": ".",
+                "path": "automatización-de-procesos-de-negocio"
+              },
+              "pt": {
+                "name": "Automatización de Procesos de Negocio",
+                "description": ".",
+                "path": "automatización-de-procesos-de-negocio"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e54099bfb0011096120",
+            "language": {
+              "es": {
+                "name": "Digitalización de Experiencias de Cliente",
+                "description": ".",
+                "path": "digitalización-de-experiencias-de-cliente"
+              },
+              "pt": {
+                "name": "Digitalización de Experiencias de Cliente",
+                "description": ".",
+                "path": "digitalización-de-experiencias-de-cliente"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c16f",
+              "name": "Estrategia Digital",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      },
+      {
+        "name": "Nuevo Modelo TI",
+        "path": "nuevo-modelo-ti",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e6b099bfb0011096121",
+            "language": {
+              "es": {
+                "name": "Gestión de Proyectos CAPEX",
+                "description": ".",
+                "path": "gestión-de-proyectos-capex"
+              },
+              "pt": {
+                "name": "Gestión de Proyectos CAPEX",
+                "description": ".",
+                "path": "gestión-de-proyectos-capex"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81e76099bfb0011096122",
+            "language": {
+              "es": {
+                "name": "Gobierno TI",
+                "description": "Marco de trabajo que proporciona una estructura para que los procesos de la organización aseguren el uso eficaz y eficiente de TI permitiendo el cumplimiento de los objetivos.",
+                "path": "gobierno-ti"
+              },
+              "pt": {
+                "name": "Gobierno TI",
+                "description": ".",
+                "path": "gobierno-ti"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": "2021-05-06T15:37:31.130Z",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Evolución de la Mesas a un modelo Smart",
+                    "description": "El proposito de esta iniciativa es: 1)  reduccion en un 30% las soluciones manuales de POS.2) Implementar 3 protocolos de atencion formales para el contacto con los Usuarios \n3) Realizar 2 auditorias anuales para asegurar el cumplimiento de los protoclos de atencion y utlizacion de las automatizaciones creads. Auditoria de cumplimiento de los procesos. \n    \nPara cumplir con esos 3 objetivos utilizamos buenas practicas del mercado, herramientas con Jekkins para automatizar las soluciones, y eso integrado con los dessarollos internos que ya existen, en este caso el Portal de Operaciones TI:\n\nhttp://operaciones.cencosud.corp/category/667",
+                    "responsable": "Andres Toledo",
+                    "impact": "Negocio",
+                    "scope": "Operaciones Chile",
+                    "path": "evolución-de-la-mesas-a-un-modelo-smart",
+                    "state": "En desarrollo",
+                    "country": "Chile",
+                    "flag": "Eurofashion",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Evolução das tabelas para um modelo inteligente",
+                    "description": "O objetivo desta iniciativa é: 1) reduzir em 30% as soluções manuais de PDV. 2) Implementar 3 protocolos formais de atendimento para contato com os usuários\n3) Realizar 2 auditorias anuais para garantir o cumprimento dos protocolos de atendimento e uso das automações criadas. Auditoria de conformidade de processo.\n    \nPara cumprir estes 3 objetivos utilizamos boas práticas de mercado, ferramentas com Jekkins para automatizar soluções, e esta integrado com os desenvolvimentos internos já existentes, neste caso o Portal de Operações de TI:\n\nhttp: //operaciones.cencosud.corp/category/667",
+                    "responsable": "Andres Toledo",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "evolução-das-tabelas-para-um-modelo-inteligente",
+                    "state": "En desarrollo",
+                    "country": "Chile",
+                    "flag": "Eurofashion",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "5fc54dbcd9798b2b8025c174",
+                "flagId": "5fc54dbcd9798b2b8025c184",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "http://operaciones.cencosud.corp/category/667",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-06T15:47:49.842Z",
+                "id": "60940e0fb9d4a000110508fc",
+                "files": [
+                  {
+                    "path": "/files?fileName=3448012-128.png&subIniciativeId=60940e0fb9d4a000110508fc",
+                    "name": "3448012-128.png",
+                    "extension": "image/png"
+                  },
+                  {
+                    "path": "/files?fileName=I32.Plan General Mapa de Riesgos.pdf&subIniciativeId=60940e0fb9d4a000110508fc",
+                    "name": "I32.Plan General Mapa de Riesgos.pdf",
+                    "extension": "application/pdf"
+                  },
+                  {
+                    "path": "/files?fileName=Proceso de Aprobación de Proyectos_v4.pdf&subIniciativeId=60940e0fb9d4a000110508fc",
+                    "name": "Proceso de Aprobación de Proyectos_v4.pdf",
+                    "extension": "application/pdf"
+                  }
+                ]
+              },
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Mapa de Riesgo TI  (Ventas y SCM)",
+                    "description": "Con el proposito de mitigar la aparicion de riesgos sistémicos asociados a CDs y Tiendas de trabajo en esta iniciativa. A través de técnicas Delphy y de conocimiento experto se hace mapeo de riesgos, para después levantar las mitigaciones asociadas a los mismos. De igual manera, se levantan propuestas de mitigaciones a riesgos que nos las tienen, o de mejora de las mitigaciones, para los riesgos que ya tienen. Participo gente de Sistemas SM, Torres Técnicas, Soporte de campo y Mesa de Soporte.Construir mapa de Riesgo para prinicpales proceso de Negocio (Ventas y SCM)",
+                    "responsable": "Juan Toledo",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "mapa-de-riesgo-ti-(ventas-y-scm)",
+                    "state": "En desarrollo",
+                    "country": "Colombia",
+                    "flag": "Disco",
+                    "businessUnit": "División Shopping Centers"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Mapa de Risco de TI (Vendas e SCM)",
+                    "description": "Com o objetivo de mitigar o surgimento de riscos sistêmicos associados aos CDs e workshops nesta iniciativa. Por meio de técnicas Delphy e conhecimento especializado, é realizado o mapeamento dos riscos, para posteriormente levantar as mitigações a eles associadas. Da mesma forma, são feitas propostas para mitigar os riscos que temos, ou para melhorar as mitigações, para os riscos que eles já apresentam. Participaram da equipe de Sistemas SM, Torres Técnicas, Suporte de Campo e Mesa de Suporte Construir Mapa de Risco para os principais processos de Negócio (Vendas e SCM)",
+                    "responsable": "Juan Toledo",
+                    "impact": "Digitalizacion",
+                    "scope": "Gerencia",
+                    "path": "mapa-de-risco-de-ti-(vendas-e-scm)",
+                    "state": "En desarrollo",
+                    "country": "Colômbia",
+                    "flag": "Disco",
+                    "businessUnit": "Divisão Shopping Centers"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c179",
+                "stateId": "5fc54dbcd9798b2b8025c174",
+                "flagId": "5fc54dbcd9798b2b8025c181",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a0",
+                "url": "",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-06T15:48:27.052Z",
+                "id": "60940f7bb9d4a000110508ff",
+                "files": [
+                  {
+                    "path": "/files?fileName=I32.Mapa de Riesgo_SupermercadosCL_V3.xlsx&subIniciativeId=60940f7bb9d4a000110508ff",
+                    "name": "I32.Mapa de Riesgo_SupermercadosCL_V3.xlsx",
+                    "extension": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 2
+          },
+          {
+            "id": "5fc81e80099bfb0011096123",
+            "language": {
+              "es": {
+                "name": "Gestión de OPEX",
+                "description": ".",
+                "path": "gestión-de-opex"
+              },
+              "pt": {
+                "name": "Gestión de OPEX",
+                "description": ".",
+                "path": "gestión-de-opex"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Isso nos permite padronizar nossas posições",
+                    "description": "\"Desafiándonos a seguir los mejores estándares de mercado, es que hemos trabajado en un proyecto de homologación de cargos para toda nuestra gerencia de TI. Esto nos permite estandarizar nuestros cargos de acuerdo a las empresas tecnológicas de vanguardia en el mundo.\nEste proceso nos entrega mayor transparencia de los skills necesarios para poder desempeñar nuestro cargo de la mejor forma, además de poder evaluar las brechas para el siguiente nivel, configurando un plan de carrera visible para el desarrollo profesional en cada familia de cargos.  \nNos permitirá además definir los objetivos a perseguir por cada cargo y los resultados que debemos alcanzar. \n\"\n",
+                    "responsable": "ossas posições",
+                    "impact": "Isso nos permite padronizar nossas posições",
+                    "scope": "https://web.microsoftstream.com/video/c0cd1356-91fe-42ec-b902-9ef205666164",
+                    "path": "isso-nos-permite-padronizar-nossas-posições",
+                    "state": "",
+                    "country": "Brasil",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Maior escopo de serviços de reparo",
+                    "description": "\"Challenging ourselves to follow the best market standards, is that we have worked on a project for the approval of positions for all of our IT management. This allows us to standardize our positions according to the cutting-edge technology companies in the world.\nThis process gives us greater transparency of the necessary skills to be able to perform our position in the best way, in addition to being able to evaluate the gaps for the next level, configuring a visible career plan for professional development in each family of positions.\nIt will also allow us to define the objectives to be pursued for each load and the results that we must achieve.\n\"",
+                    "responsable": "ossas posições",
+                    "impact": " ",
+                    "scope": " ",
+                    "path": "maior-escopo-de-serviços-de-reparo",
+                    "state": "",
+                    "country": "Brasil",
+                    "flag": "Aventura",
+                    "businessUnit": "Supermercado"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c177",
+                "stateId": "",
+                "flagId": "5fc54dbcd9798b2b8025c17b",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a4",
+                "url": "https://web: Isso nos permite padronizar noss",
+                "implementationEndDate": "",
+                "createdAt": "2021-05-05T13:36:36.429Z",
+                "updatedAt": "2021-05-07T14:41:26.071Z",
+                "id": "6095517db9d4a0001105090b",
+                "files": [
+                  {
+                    "path": "/files?fileName=I20.Renovacion Tecnologica SAP on Cloud SM Chile_Economica Marzo 2021.pptx&subIniciativeId=6095517db9d4a0001105090b",
+                    "name": "I20.Renovacion Tecnologica SAP on Cloud SM Chile_Economica Marzo 2021.pptx",
+                    "extension": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+                  },
+                  {
+                    "path": "/files?fileName=iconfinder_management_business_files_4852555.png&subIniciativeId=6095517db9d4a0001105090b",
+                    "name": "iconfinder_management_business_files_4852555.png",
+                    "extension": "image/png"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c172",
+              "name": "Nuevo Modelo TI",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          }
+        ]
+      },
+      {
+        "name": "Gestión de Talento",
+        "path": "gestión-de-talento",
+        "totalIniciatives": 3,
+        "iniciatives": [
+          {
+            "id": "5fc81e95099bfb0011096124",
+            "language": {
+              "es": {
+                "name": "Atracción, retención y Desarrollo de Talento",
+                "description": ".",
+                "path": "atracción,-retención-y-desarrollo-de-talento"
+              },
+              "pt": {
+                "name": "Atracción, retención y Desarrollo de Talento",
+                "description": ".",
+                "path": "atracción,-retención-y-desarrollo-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [
+              {
+                "language": {
+                  "es": {
+                    "$init": true,
+                    "name": "Encuesta de Salida",
+                    "description": "Realizar una encuesta a todos los colaboradores que presenten renuncia voluntaria.",
+                    "responsable": "Patricia Leiva",
+                    "impact": "Bajo",
+                    "scope": "Regional",
+                    "path": "encuesta-de-salida",
+                    "state": "Implementado",
+                    "country": "Chile",
+                    "flag": "Corporación",
+                    "businessUnit": "Corporación"
+                  },
+                  "pt": {
+                    "$init": true,
+                    "name": "Encuesta de Salida",
+                    "description": "Realizar una encuesta a todos los colaboradores que presenten renuncia voluntaria.",
+                    "responsable": "Patricia Leiva",
+                    "impact": "Bajo",
+                    "scope": "Regional",
+                    "path": "encuesta-de-salida",
+                    "state": "Implementado",
+                    "country": "Chile",
+                    "flag": "Corporação",
+                    "businessUnit": "Corporação"
+                  }
+                },
+                "countryId": "5fc54dbcd9798b2b8025c178",
+                "stateId": "5fc54dbcd9798b2b8025c175",
+                "flagId": "5fc54dbcd9798b2b8025c17f",
+                "businessUnitId": "5fc54dbdd9798b2b8025c1a1",
+                "url": "https://google.com/",
+                "implementationEndDate": "2020-12-02T03:00:00.000Z",
+                "createdAt": "2020-12-01T17:37:47.115Z",
+                "updatedAt": "2021-05-07T14:34:04.034Z",
+                "id": "5fc82088099bfb0011096127",
+                "files": [
+                  {
+                    "path": "/files?fileName=qa2.png&subIniciativeId=5fc82088099bfb0011096127",
+                    "name": "qa2.png",
+                    "extension": "image/png"
+                  },
+                  {
+                    "path": "/files?fileName=Definicion avenidas_Acciones_Consolidado.xlsx&subIniciativeId=5fc82088099bfb0011096127",
+                    "name": "Definicion avenidas_Acciones_Consolidado.xlsx",
+                    "extension": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                  }
+                ]
+              }
+            ],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 1
+          },
+          {
+            "id": "5fc81e9e099bfb0011096125",
+            "language": {
+              "es": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              },
+              "pt": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          },
+          {
+            "id": "5fc81ea9099bfb0011096126",
+            "language": {
+              "es": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              },
+              "pt": {
+                "name": "Identificación y Gestión de Talento",
+                "description": ".",
+                "path": "identificación-y-gestión-de-talento"
+              }
+            },
+            "createdAt": "2020-12-01T17:37:51.715Z",
+            "updatedAt": null,
+            "username": "juanbarr",
+            "subIniciatives": [],
+            "avenue": {
+              "_id": "5fc54dbcd9798b2b8025c171",
+              "name": "Gestión de Talento",
+              "__v": 0
+            },
+            "totalSubiniciatives": 0
+          }
+        ]
+      }
+    ]
+  }
+}

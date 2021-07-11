@@ -1,0 +1,84 @@
+<!-- <app-nav [textMock]="textMock"></app-nav> -->
+<div class="animate__animated animate__fadeIn">
+  <!--thumbnail detail-->
+  <div id="top"></div>
+  <div id="navStickyId"></div>
+  <div class="thumbnail-detail-container">
+    <div class="wrapper-content">
+      <!--bredcrum-->
+      <div class="bredcrum-bar-content">
+        <div class="bredcrum-bar-content--between">
+          <div class="bredcrum-bar-content__left">
+            <span>{{ avenuePath }}</span>
+          </div>
+          <div class="bredcrum-bar-content__right">
+            <a [routerLink]="toLink(volverPath)">
+              <img src="assets/image/arrow-left.png" alt="arrow" />{{
+                textMock.buttonBack
+              }}</a
+            >
+          </div>
+        </div>
+      </div>
+      <!--bredcrum-->
+      <h1>{{ detail.title }}</h1>
+      <p>{{ detail.description }}</p>
+      <div class="row">
+        <div class="col-md-8">
+          <div class="row">
+            <div class="col-md-7">
+              <div class="thumbnail-detail-container__image-container">
+                <img src="{{ detail.src }}" />
+              </div>
+              <button *ngIf="detail.url" (click)="link(detail.url)">
+                {{ textDetail.buttonText }}
+              </button>
+            </div>
+            <div class="col-md-5">
+              <ul class="thumbnail-detail-container__detaild-items">
+                <li>
+                  <b>{{ textDetail.responsable }}: </b>{{ detail.responsable }}
+                </li>
+                <li>
+                  <b>{{ textDetail.state }}: </b>{{ detail.state }}
+                </li>
+                <li>
+                  <b>{{ textDetail.impact }}: </b>{{ detail.impact }}
+                </li>
+                <li>
+                  <b>{{ textDetail.scope }}: </b>{{ detail.scope }}
+                </li>
+                <li *ngIf="detail.implementationEndDate">
+                  <b>{{ textDetail.implementationEndDate }}: </b
+                  >{{ detail.implementationEndDate }}
+                </li>
+                <li>
+                  <b>{{ textDetail.country }}: </b>{{ detail.country }}
+                </li>
+                <li>
+                  <b>{{ textDetail.businessUnit }}: </b
+                  >{{ detail.businessUnit }}
+                </li>
+                <li>
+                  <b>{{ textDetail.flag }}: </b>{{ detail.flag }}
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h3>{{ textDetail.titleFile }}</h3>
+          <ul class="thumbnail-detail-container__icon-file">
+            <li *ngFor="let item of detail.files">
+              <a href="{{ apiPath }}{{ item.path }}" download
+                ><img src="assets/image/icon-file.svg" /><span>{{
+                  item.name
+                }}</span></a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
